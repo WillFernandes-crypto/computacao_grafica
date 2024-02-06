@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1706025094 source:/home/wilson/Documentos/Estudos/paint/main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<vector>
+	<functional>
+	<stack>
+	<algorithm>
+	<cmath>
+	"desenhos.h"
+	"perif.h"
+
+1707239796 source:/home/wilson/Documentos/Estudos/paint/desenhos.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<vector>
+	<functional>
+	<stack>
+	<algorithm>
+	<cmath>
+	<iostream>
+	"transforma.h"
+	"desenhos.h"
+	"perif.h"
+	"salvar.h"
+
+1706285665 /home/wilson/Documentos/Estudos/paint/desenhos.h
+	<GL/gl.h>
+	<vector>
+	<functional>
+	"salvar.h"
+
+1706286100 source:/home/wilson/Documentos/Estudos/paint/salvar.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<fstream>
+	<cstring>
+	"transforma.h"
+	"desenhos.h"
+	"perif.h"
+	"salvar.h"
+
+1706282836 /home/wilson/Documentos/Estudos/paint/salvar.h
+	<iostream>
+	<vector>
+	<fstream>
+	"desenhos.h"
+	"transforma.h"
+	"perif.h"
+
+1707242372 /home/wilson/Documentos/Estudos/paint/transforma.h
+	<GL/gl.h>
+	<vector>
+	<functional>
+
+1705889995 source:/home/wilson/Documentos/Estudos/paint/tranforma.cpp
+	<GL/glu.h>
+	<GL/glut.h>
+	<vector>
+	<functional>
+	<stack>
+	<algorithm>
+	<cmath>
+	<iostream>
+	"transforma.h"
+	"desenhos.h"
+
+1706461780 /home/wilson/Documentos/Estudos/paint/perif.h
+	<GL/gl.h>
+	<vector>
+	<functional>
+
+1706465365 source:/home/wilson/Documentos/Estudos/paint/perif.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<vector>
+	<functional>
+	<stack>
+	<algorithm>
+	<cmath>
+	<iostream>
+	<string>
+	<utility>
+	<cstring>
+	"transforma.h"
+	"desenhos.h"
+	"perif.h"
+	"salvar.h"
+
+1707241928 source:/home/wilson/Documentos/Estudos/paint/transforma.cpp
+	<GL/glut.h>
+	<iostream>
+	<limits>
+	<functional>
+	<vector>
+	<cmath>
+	"transforma.h"
+	"desenhos.h"
+
